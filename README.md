@@ -1,4 +1,4 @@
-# ShortCodes Videos Module
+# ShortCodes Module
 
 ## Overview
 
