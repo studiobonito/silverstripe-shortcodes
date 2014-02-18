@@ -1,0 +1,22 @@
+{
+    "name": "studiobonito/silverstripe-shortcodes",
+    "description": "Shortcodes Module is based on Daniel Hensby's post at SSbits. It adds a shortcode for inserting YouTube videos to pages, as well as adding a button to the TinyMCE WYSIWYG editor.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "shortcodes", "vimeo", "youtube", "video", "shortcode", "wysiwyg", "tinymce", "cms"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Tom Densham",
+            "email": "tom.densham@studiobonito.co.uk"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": ">=2.4"
+    },
+    "support": {
+        "issues": "https://github.com/studiobonito/silverstripe-shortcodes/issues"
+    },
+    "extra": {
+        "installer-name": "shortcodes"
+    }
+}
