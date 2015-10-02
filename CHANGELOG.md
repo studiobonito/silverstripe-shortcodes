@@ -8,6 +8,7 @@ All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented
 - Included `.gitignore` file.
 - Included `.gitattributes` file.
 - Included `php` version `>=5.3.0` as a dependency.
+- Updated license.
 
 ## [1.0.2] - 2014-03-03
 ### Fixed
