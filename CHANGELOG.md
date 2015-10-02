@@ -5,6 +5,7 @@ All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented
 ## [Unreleased]
 ### Added
 - Included changelog.
+- Included `.gitignore` file.
 
 ## [1.0.2] - 2014-03-03
 ### Fixed
