@@ -13,6 +13,9 @@ All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented
 - Updated `composer.json` file.
 - Updated readme.
 
+### Fixed
+- Update Vimeo embed URL to use `https`.
+
 ## [1.0.2] - 2014-03-03
 ### Fixed
 - Replaced YouTube embedding with `object` to `iframe`.
