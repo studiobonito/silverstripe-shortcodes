@@ -10,6 +10,7 @@ All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented
 - Included `php` version `>=5.3.0` as a dependency.
 - Updated license.
 - Included contributing guide.
+- Updated `composer.json` file.
 
 ## [1.0.2] - 2014-03-03
 ### Fixed
