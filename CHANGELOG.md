@@ -1,8 +1,10 @@
 # Changelog
 
-All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented in this file
+All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented in this file.
 
 ## [Unreleased]
+
+## [1.0.4] - 2015-12-17
 ### Added
 - Included `.editorconfig` file.
 
@@ -29,6 +31,7 @@ All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented
 - Updated readme.
 
 [Unreleased]: https://github.com/studiobonito/silverstripe-shortcodes/compare/1.0.3...HEAD
+[1.0.4]: https://github.com/studiobonito/silverstripe-shortcodes/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/studiobonito/silverstripe-shortcodes/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/studiobonito/silverstripe-shortcodes/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/studiobonito/silverstripe-shortcodes/compare/1.0.0...1.0.1
