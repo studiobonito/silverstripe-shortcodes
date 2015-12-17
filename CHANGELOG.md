@@ -3,6 +3,8 @@
 All Notable changes to `studiobonito/silverstripe-shortcodes` will be documented in this file
 
 ## [Unreleased]
+### Added
+- Included `.editorconfig` file.
 
 ## [1.0.3] - 2015-10-02
 ### Added
